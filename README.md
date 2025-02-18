@@ -9,7 +9,7 @@ Step 1 --> Click on Code and then click on Download ZIP. (as shown in the image 
 
 Step 2 --> Goto Windows Settings > Virus and Threat Protection and click on Manage Settings under Virus and Threat Protection Settings.
 
-![image]()
+![image](https://user-images.githubusercontent.com/79533228/158681643-99acb00d-bb57-47d8-b908-9830c14a15f6.png)
 
 Step 3 --> Now Scroll down and click on add or remove exclusion.
 
@@ -17,13 +17,13 @@ Step 3 --> Now Scroll down and click on add or remove exclusion.
 
 Step 4 --> Click on "Add an exclusion" and then click on Folder.
 
-![image]()
+![image](https://user-images.githubusercontent.com/79533228/158682360-15b96ddb-5f13-46b6-9942-0370a69b58da.png)
 
 Step 5 --> Now Create a folder where you want to extract the downloaded file, we need to use this exclusion method because the Windows Defender will regard our crack as a virus and will not allow us to install it so we make an exclusion to the Defender.
 
 Step 6 --> After Creating a folder, now select that folder in the exclusion list.
 
-![image]()
+![image](https://user-images.githubusercontent.com/79533228/158683053-2efa37dd-54e6-48c7-b15f-f894782e06ba.png)
 
 Step 7 --> Now extract the downloaded file to the exclusion folder.
 
@@ -33,7 +33,7 @@ Step 7 --> Now extract the downloaded file to the exclusion folder.
 
 Step 8 --> Now open the extracted folder and click on Setup.exe
 
-![image]()
+![image](https://user-images.githubusercontent.com/79533228/158683733-67084644-5bd8-472c-aec8-6dc1412fe079.png)
 
 Step 9 --> Click Next
 
@@ -80,15 +80,15 @@ Click on Replace the file in the destination folder.
 
 Step 17 --> Now run the Tally ERP9 from the desktop or the application menu (Run as Administrator). Click on Allow Access
 
-![image]()
+![image](https://user-images.githubusercontent.com/79533228/158686999-d5063ec7-e57a-42b2-994d-c82c8fc1e4ac.png)
 
 Step 18 --> Let's proceed towards the Activation of Tally, press 'A' and hit enter.
 
-![image]()
+![image](https://user-images.githubusercontent.com/79533228/158687305-ed65b8ea-a7c8-4eeb-b876-8fcc484e93c3.png)
 
 Step 19 --> Hit enter again.
 
-![image]()
+![image](https://user-images.githubusercontent.com/79533228/158687444-c3001234-9688-40cc-b796-e0ad96c3d57e.png)
 
 Step 20 --> Now enter random data into the Serial Number, Activation Key and the Email id of the Administrator and hit enter.
 
@@ -100,7 +100,7 @@ You will see a message box like this.
 
 Step 21 --> Exit Tally ERP9 by pressing Esc button on you keyboard and when prompted yes or no for quitting then press 'y' on your keyboard.
 
-![image]()
+![image](https://user-images.githubusercontent.com/79533228/158688260-db4de632-e8ce-42e1-b50c-67c8eb7a0dcb.png)
 
 Step 22 --> Now open the Tally ERP9 installation directory. You will see a file named "tally_req.lic".
 
@@ -112,6 +112,6 @@ Step 23 --> Rename "tally_req.lic" to "tally.lic"
 
 Steo 24 --> Open your Tally ERP9 from Desktop or Applications Menu, you will be able to work on Tally now with all the paid features.
 
-![image]()
+![image](https://user-images.githubusercontent.com/79533228/158689251-b774c193-f4b6-4d75-8c89-21c0937c9a66.png)
 
-Hooray!! Tally ERP9 is succesfully cracked and is ready to use.
+Hooray! Tally ERP9 is succesfully cracked and is ready to use.
